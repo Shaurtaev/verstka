@@ -1,4 +1,1 @@
-"# verstka"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Shaurtaev/verstka.git git push -u origin master
-"# verstka"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Shaurtaev/verstka.git git push -u origin master
-"# verstka"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Shaurtaev/verstka.git git push -u origin master
-"# verstka"  git init git add README.md git commit -m "first commit" git remote add origin git@github.com:Shaurtaev/verstka.git git push -u origin master
+Курс по фронтэнду от Евгения Родионова
